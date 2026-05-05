@@ -43,3 +43,4 @@ const Titulo = document.getElementById("titulo")
 titulo.innerText = "O DOM mundou o texto"
 
 titulo.style.color = "blue"
+
